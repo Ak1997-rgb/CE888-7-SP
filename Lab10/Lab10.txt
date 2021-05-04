@@ -1,0 +1,2 @@
+Heroku link: https://ce888-lab10-deployment.herokuapp.com/
+Github link: https://github.com/Ak1997-rgb/CE888-Lab10
